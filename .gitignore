@@ -1,0 +1,16 @@
+# relatorios mocha
+mochawesome-report
+
+# relatorios cucumber
+cypress/reports/cucumber-json/*
+cypress/reports/index.html
+cypress/reports/index.html.json
+
+# node
+node_modules/
+
+# cypress
+cypress/videos/
+
+# outros
+.DS_Store
